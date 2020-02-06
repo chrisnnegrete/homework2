@@ -1,4 +1,6 @@
-**LEGO Mosaic**  
+**LEGO Mosaic**
+
+https://www.youtube.com/watch?v=Ih1DU_c-0ZY  
 
 ***Data/Model***  
 * Mosaic booth  
